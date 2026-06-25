@@ -1,6 +1,6 @@
-# 👩‍💻 <img src="https://github.com/user-attachments/assets/aec36f9c-3667-41fa-8efd-64928d14037b" alt="Letícia Renelly" height="40px" align="center">
+<h1>
+  👩‍💻 <img src="https://github.com/user-attachments/assets/4dd3a74c-d182-4573-90b5-ce43c7056b6b" alt="leticia_nome" width="230" height="28" style="vertical-align: middle;">
 </h1>
-</svg>
 
 **`Desenvolvedora Front-End & UX/UI Designer`**
 
