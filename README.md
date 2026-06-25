@@ -1,4 +1,5 @@
-# 👩‍💻 <img src="./leticiarenelly.svg" alt="Letícia Renelly" height="36px" align="center">
+# 👩‍💻 <img src=".
+      C:\Users\scarw\Documents\github readme/leticiarenelly.svg" alt="Letícia Renelly" height="36px" align="center">
 
 **`Desenvolvedora Front-End & UX/UI Designer`**
 
